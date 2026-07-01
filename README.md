@@ -44,7 +44,7 @@ Meskipun Looker Studio merupakan perangkat BI *no-code*, repositori ini mendokum
 
 ```text
 KOM1402-capstone--caps02/
-├── README.md                    # File ini (Ikhtisar proyek & petunjuk penggunaan)
+├── README.md                  
 ├── results/
 │   ├── Dashboard_KOM_S1.pdf     # Hasil ekspor dashboard dalam format PDF
 │   └── screenshots/             # Screenshots visualisasi dashboard untuk dokumentasi README
@@ -56,7 +56,7 @@ KOM1402-capstone--caps02/
 │   └── calculated_fields.md     # Log detail formula yang digunakan di Looker Studio
 ├── data/
 │   └── sample_krs_merged.csv    # Sampel data tiruan sebanyak 30 baris dari KRS_Merged
-└── .gitignore                   # Konfigurasi file/direktori yang diabaikan oleh Git
+└── .gitignore          
 ```
 
 ---
