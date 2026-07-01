@@ -10,8 +10,8 @@ Tabel gabungan ini berisi histori lengkap akademik mahasiswa, detail mata kuliah
 
 | Nama Kolom | Tipe Data | Deskripsi | Contoh Nilai |
 | :--- | :--- | :--- | :--- |
-| **NIM** | Text | Nomor Induk Mahasiswa IPB | `G6401201019` |
-| **Nama** | Text | Nama lengkap mahasiswa | `Dhea Miranda Widana Putri` |
+| **NIM** | Text | Nomor Induk Mahasiswa IPB | `G6401200001` |
+| **Nama** | Text | Nama lengkap mahasiswa | `Mahasiswa Dummy 1` |
 | **KodeProgramStudi** | Text | Kode internal program studi | `M03` |
 | **ProgramStudi** | Text | Nama Program Studi asal mahasiswa | `Ilmu Komputer` |
 | **TahunMasuk** | Integer | Tahun angkatan masuk kuliah | `2020` |

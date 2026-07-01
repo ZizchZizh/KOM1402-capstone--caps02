@@ -1,31 +1,31 @@
 NIM,Nama,KodeProgramStudi,ProgramStudi,TahunMasuk,TahunAkademik,SemesterAkademik,SemesterMahasiswa,Kode,Matakuliah,SKS,SKSKuliah,SKSPraktikum,HurufMutu
-G6401201019,Dhea Miranda Widana Putri,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1498,Seminar,1,0,1,BL
-G6401201019,Dhea Miranda Widana Putri,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1497,Kolokium,1,0,1,BL
-G6401201019,Dhea Miranda Widana Putri,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1499,Tugas Akhir,4,0,4,BL
-G6401201019,Dhea Miranda Widana Putri,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1498,Seminar,1,0,1,BL
-G6401201019,Dhea Miranda Widana Putri,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1497,Kolokium,1,0,1,BL
-G6401201019,Dhea Miranda Widana Putri,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,BL
-G6401201020,Syabil Rofilah Alif Permana,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,AB
-G6401201029,Muhammad Daffa Fakhi Irmawan,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,A
-G6401201034,Previa Putri Aulia,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1498,Seminar,1,0,1,BL
-G6401201034,Previa Putri Aulia,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1499,Tugas Akhir,4,0,4,BL
-G6401201034,Previa Putri Aulia,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1498,Seminar,1,0,1,BL
-G6401201034,Previa Putri Aulia,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,BL
-G6401201036,Surya Fatihah Helmianto,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1498,Seminar,1,0,1,BL
-G6401201036,Surya Fatihah Helmianto,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1499,Tugas Akhir,4,0,4,BL
-G6401201036,Surya Fatihah Helmianto,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1498,Seminar,1,0,1,BL
-G6401201036,Surya Fatihah Helmianto,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,BL
-G6401201037,Rafif Idul Fitra,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,AB
-G6401201050,Tiar Iswanti,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1498,Seminar,1,0,1,BL
-G6401201050,Tiar Iswanti,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1499,Tugas Akhir,4,0,4,BL
-G6401201050,Tiar Iswanti,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,BL
-G6401201050,Tiar Iswanti,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1498,Seminar,1,0,1,BL
-G6401201053,Nur Rohman,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1499,Tugas Akhir,4,0,4,A
-G6401201053,Nur Rohman,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1498,Seminar,1,0,1,AB
-G6401201064,Hasrul Malik Putra Mashun,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,A
-G6401201080,Imana Tsaqif Ariyadi,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,A
-G6401201083,Fadil Muhammad Fauzan,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,A
-G6401201086,Daffa Fikri,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,A
-G6401201090,Jasmine Nayla Abdul Aziz,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,AB
-G6401201093,Muhammad Ariq Aziz,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,A
-G6401201094,Daffa Rifqi Kanz,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1499,Tugas Akhir,4,0,4,BL
+G6401200001,Mahasiswa Dummy 1,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1498,Seminar,1,0,1,BL
+G6401200001,Mahasiswa Dummy 1,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1497,Kolokium,1,0,1,BL
+G6401200001,Mahasiswa Dummy 1,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1499,Tugas Akhir,4,0,4,BL
+G6401200001,Mahasiswa Dummy 1,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1498,Seminar,1,0,1,BL
+G6401200001,Mahasiswa Dummy 1,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1497,Kolokium,1,0,1,BL
+G6401200001,Mahasiswa Dummy 1,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,BL
+G6401200002,Mahasiswa Dummy 2,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,AB
+G6401200003,Mahasiswa Dummy 3,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,A
+G6401200004,Mahasiswa Dummy 4,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1498,Seminar,1,0,1,BL
+G6401200004,Mahasiswa Dummy 4,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1499,Tugas Akhir,4,0,4,BL
+G6401200004,Mahasiswa Dummy 4,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1498,Seminar,1,0,1,BL
+G6401200004,Mahasiswa Dummy 4,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,BL
+G6401200005,Mahasiswa Dummy 5,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1498,Seminar,1,0,1,BL
+G6401200005,Mahasiswa Dummy 5,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1499,Tugas Akhir,4,0,4,BL
+G6401200005,Mahasiswa Dummy 5,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1498,Seminar,1,0,1,BL
+G6401200005,Mahasiswa Dummy 5,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,BL
+G6401200006,Mahasiswa Dummy 6,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,AB
+G6401200007,Mahasiswa Dummy 7,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1498,Seminar,1,0,1,BL
+G6401200007,Mahasiswa Dummy 7,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1499,Tugas Akhir,4,0,4,BL
+G6401200007,Mahasiswa Dummy 7,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,BL
+G6401200007,Mahasiswa Dummy 7,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1498,Seminar,1,0,1,BL
+G6401200008,Mahasiswa Dummy 8,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1499,Tugas Akhir,4,0,4,A
+G6401200008,Mahasiswa Dummy 8,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1498,Seminar,1,0,1,AB
+G6401200009,Mahasiswa Dummy 9,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,A
+G6401200010,Mahasiswa Dummy 10,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,A
+G6401200011,Mahasiswa Dummy 11,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,A
+G6401200012,Mahasiswa Dummy 12,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,A
+G6401200013,Mahasiswa Dummy 13,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,AB
+G6401200014,Mahasiswa Dummy 14,M03,Ilmu Komputer,2020,2024/2025,2,10,KOM1499,Tugas Akhir,4,0,4,A
+G6401200015,Mahasiswa Dummy 15,M03,Ilmu Komputer,2020,2025/2026,1,11,KOM1499,Tugas Akhir,4,0,4,BL
