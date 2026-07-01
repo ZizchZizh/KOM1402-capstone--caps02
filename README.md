@@ -8,7 +8,6 @@
 
 ## 🔗 Link Dashboard & Demo
 
-* **Link Dashboard Interaktif (Live)**: [Tautan Looker Studio Dashboard](https://datastudio.google.com/s/s_f_UTl6raE)
 * **Format Ekspor PDF**: [Dashboard_KOM_S1.pdf](results/Dashboard_KOM_S1.pdf)
 * **Contoh Data Masukan**: [sample_krs_merged.csv](data/sample_krs_merged.csv)
 
