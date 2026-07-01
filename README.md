@@ -64,8 +64,8 @@ KOM1402-capstone--caps02/
 ## 👥 Anggota Kelompok (Caps02)
 
 * **Nisa Amelia** - NIM: `G6401231022`
-* **Muhammad Agung Rizkiansyah** - NIM: `G6401231096`
 * **M Althaf Faiz Rafianto** - NIM: `G6401231061`
+* **Muhammad Agung Rizkiansyah** - NIM: `G6401231096`
 * **Kasyifa Naila Alisha** - NIM: `G6401231139`
 
 ---
